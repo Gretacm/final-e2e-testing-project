@@ -1,4 +1,10 @@
-# E2E Testing Project
+# 🧪 E2E Testing Project
+
+Automated end-to-end testing suite using **Cypress 13** with continuous integration via **GitHub Actions**.
+
+---
+This project automates browser testing for login, signup, and checkout scenarios as part of the E2E testing coursework.
+
 
 ## Stack
 - Cypress 13, Chrome headed/headless
